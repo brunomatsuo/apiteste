@@ -1,4 +1,4 @@
-package models;
+package com.bcm.testeapi.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
